@@ -1,0 +1,31 @@
+.Lastbuttonbox1{
+    width: 100%;
+    height: 35%;
+    background-color: #f5f7fa;
+    display: flex;
+    justify-content: center;
+}
+
+.Lastbuttonbox2{
+    width: 90%;
+    height: 100%;
+    background-color: #f5f7fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.Lastbutton{
+    width: 15%;
+    height: 30%;
+    font-size: 18px;
+    background-color: #4440db;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+.Lastbutton:hover{
+    background-color: #3630d4;
+}

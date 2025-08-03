@@ -1,0 +1,26 @@
+.titletext{
+    width: 100%;
+    height: 30%;
+    /* background-color: antiquewhite; */
+    margin-top: 10px;
+}
+
+.titletextrapper{
+    width: 70%;
+    height: 100%;
+    /* background-color: rgb(162, 97, 13); */
+    margin-left: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.herotext {
+  display: flex;
+  flex-direction: column;
+  font-size: 45px;
+}
+
+.subtext{
+   font-size: 35px; 
+   color: #51596c;
+}

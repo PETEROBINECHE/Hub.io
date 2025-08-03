@@ -1,0 +1,164 @@
+.headercontainer{
+    width: 100%;
+    height: 15%;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+}
+
+.headercontainer2{
+    width: 97%;
+    height: 100%;
+    /* background-color: aquamarine; */
+    display: flex;
+    align-items: center;
+}
+
+.logoholder{
+    width: 10%;
+    height: 70%;
+    /* background-color: blueviolet; */
+}
+
+.logorap{
+    width: 90%;
+    height: 100%;
+    /* background-color: brown; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logorap > img{
+    width: 70%;
+}
+
+/* link */
+
+.linkholder{
+    width: 90%;
+    height: 100%;
+    /* background-color: cadetblue; */
+    display: flex;
+    flex-direction: row;
+}
+
+.navbarall{
+    width: 85%;
+    height: 100%;
+    /* background-color: chartreuse; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: flex-end;
+    list-style: none;
+    
+}
+
+.singup{
+    width: 15%;
+    height: 100%;
+    /* background-color: chocolate; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: flex-end;
+    justify-content: space-around;
+    list-style: none;
+    color: black;
+    
+}
+
+.navbarspace{
+    height: 40%;
+    width: 1%;
+    margin-right: 2px;
+    border-right: 1px solid #b5b3b3;
+}
+
+.navitem{
+  font-size: 18px;
+   
+}
+
+.title{
+    margin-right: 10px;
+    text-decoration: none;
+    color: #1f2430;
+    
+}
+
+.title :hover{
+    color: blue;
+}
+
+.titles{
+    text-decoration: none;
+    margin-right: 5px;
+    color: #1f2430;
+}
+
+.titles :hover{
+    color: blue;
+}
+
+.pricing{
+    margin-left: 10px;
+    margin-right: 15px;
+    color: #1f2430;
+    text-decoration: none;
+}
+
+.pricing :hover{
+    color: blue;
+}
+
+.scout-link {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none; 
+  margin-right: 20px;
+  color: #1f2430;
+}
+
+.scout {
+  color: black; 
+  transition: color 0.3s ease;
+}
+
+.scout:hover {
+  color: blue;
+}
+
+
+.headerbarnew{
+    width: 50px;
+    height: 15px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
+
+.forstartups{
+    margin-right: 10px;
+    text-decoration: none;
+    color: #1f2430;
+}
+
+.forstartups :hover{
+    color: blue;
+}
+
+.navitem2{
+    font-size: 18px;
+    text-decoration: none;
+    color: #1f2430;
+}
+
+.navitem2 :hover{
+    color: blue;
+}

@@ -1,0 +1,55 @@
+.Operationsjobsrapper11{
+    width: 100%;
+    height: 30%;
+    /* background-color: bisque; */
+    display: flex;
+    align-items: center;
+}
+
+.Operationsjobsrapper22{
+    width: 60%;
+    height: 40%;
+    /* background-color: rebeccapurple; */
+    margin-left: 65px;
+    margin-top: 70px;
+}
+
+.Operationsjobsbody{
+    font-family: Volkart, sans-serif;
+    
+}
+
+.Operationsjobshoder{
+    width: 65%;
+    height: 25%;
+    /* background-color: aqua; */
+    /* display: flex;
+    justify-content: flex-start; */
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.Operationsjobshoder2{
+    font-size: 48px;
+   color: #1f2430;
+   font-family: Volkart, sans-serif;
+    text-align: left;
+    letter-spacing: -1px;
+    /* margin-bottom: 2.5rem; */
+    letter-spacing: -.09375rem;
+    font-size: 3rem;
+}
+
+.Operationsjobssubtexts{
+    font-size: 18px;
+    color: blue;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+.Operationsjobssubtexts:hover{
+    text-decoration: underline;
+    color: rgb(6, 6, 109);
+}

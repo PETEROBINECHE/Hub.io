@@ -1,0 +1,28 @@
+.subpictures-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  justify-content: center;
+  align-items: center;
+  padding: 32px 0;
+  background: #f8f9fa;
+  border-radius: 16px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+}
+
+.subpicture {
+  width: 115px;
+  height: 100px;
+  object-fit:  contain;
+  /* border-radius: 8px; */
+  margin-top: 20px;
+  padding: 20px;
+  transition: transform 0.2s, box-shadow 0.2s;
+  
+}
+
+.subpicture:hover {
+  transform: scale(1.08);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+  background: #e9ecef;
+}

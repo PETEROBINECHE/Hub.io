@@ -1,0 +1,162 @@
+.picviewcontainer{
+    width: 100%;
+    height: 80%;
+    background-color: silver;
+    margin-top: 70px;
+}
+
+.tabviewcontainer{
+    width: 100%;
+    height: 35%;
+    /* background-color: white; */
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 250px;
+}
+
+.tabviewrapper{
+    width: 90%;
+    height: 100%;
+    /* background-color: white; */
+    display: flex;
+    justify-content: center;
+}
+
+.tabviewholder{
+    width: 95%;
+    height: 90%;
+    /* background-color: brown; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tabview{
+    width: 100%;
+    height: 85%;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.searchicon{
+    width: 10%;
+    height: 70%;
+    /* background-color: coral; */
+    display: flex;
+    align-items: center;
+    /* justify-content: flex-end; */
+    justify-content: center;
+}
+
+.inputtab{
+   width: 40%;
+    height: 70%;
+    /* background-color: cornflowerblue; */
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.inputtab2{
+    width: 95%;
+    height: 70%;
+    font-size: 16px;
+    border: none;
+    border-right: 1px solid #ccc;
+}
+
+/* tab 2 */
+
+.tabview2{
+    width: 60%;
+    height: 70%;
+    /* background-color: darkgreen; */
+    display: flex;
+    align-items: center;
+}
+
+.locationicon{
+    width: 10%;
+    height: 100%;
+    /* background-color: coral; */
+    display: flex;
+    align-items: center;
+    /* justify-content: flex-end; */
+    justify-content: center;
+}
+
+.inputlocation{
+    width: 45%;
+    height: 100%;
+    /* background-color: cornflowerblue; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inputlocation2{
+    width: 90%;
+    height: 70%;
+    font-size: 16px;
+    border: none;
+}
+
+.buttonholder{
+    width: 15%;
+    height: 100%;
+    /* background-color: coral; */
+    display: flex;
+    align-items: center;
+    /* justify-content: flex-end; */
+    justify-content: center;
+}
+
+.button{
+    font-size: 16px;
+    text-decoration: none;
+    width: 100%;
+   height: 30%;
+   border: none;
+   color: black;
+   background-color: white;
+}
+
+.eulink{
+    text-decoration: none;
+}
+
+.searchbutton{
+    width: 28%;
+    height: 100%;
+    /* background-color: crimson; */
+    display: flex;
+    align-items: center;
+    /* justify-content: flex-end; */
+    justify-content: center;
+    margin-right: 15px;
+}
+
+.searchbutton2{
+   width: 100%;
+   height: 80%;
+   background-color: blue;
+   border: none;
+   color: white;
+   font-size: 18px;
+
+}
+
+.picviewrapper{
+    width: 100%;
+    height: 180%;
+    /* position: relative; */
+}
+
+.picviewrapper2{
+    width: 100%;
+    height: 55%;
+}
