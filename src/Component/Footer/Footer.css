@@ -1,0 +1,121 @@
+.footer {
+  background-color: #1f2430;
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.footerrappar{
+    width: 90%;
+    height: 500px;
+    /* background-color: aqua; */
+    display: flex;
+    color: white;
+    padding: 0px;
+    gap: 90px;
+}
+
+.first {
+  margin-top: 120px;
+  gap: 20px;
+  /* background: red; */
+}
+
+.second {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+/* .head {
+  
+} */
+
+.head h3 {
+  color: #4a9e9b;
+  font-family: Volkart, sans-serif;
+}
+
+.body {
+  display: flex;
+  margin-top: 20px;
+  gap: 10px;
+ 
+}
+
+.f {
+    font-family: Volkart, sans-serif;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.join {
+  display: flex;
+}
+
+.final{
+    font-size: 20px;
+    color: #fff;
+    font-family: Volkart, sans-serif;
+}
+
+.span1 {
+  font-weight: 300;
+  background-color: #003755;
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 1px;
+  
+}
+
+.span2 {
+  font-weight: 300;
+  background-color: #ffffff;
+  border: 1px solid black;
+  /* width: 75px; */
+  padding: 10px;
+  color: #083d5a;
+  
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  gap: 2px;
+  font-family: Volkart, sans-serif;
+}
+
+.footertext{
+    width: 80%;
+    height: 350px;
+    margin-top: 120px;
+    display: flex;
+    flex-direction: row;
+    /* background-color: aqua; */
+    gap: 20px;
+}
+
+.Slide1 {
+    /* background-color: red; */
+    width: 30%;
+    font-family: Volkart, sans-serif;
+}
+.Slide1 h3 {
+  color: blueviolet;
+}
+.sub {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  gap: 16px;
+}
+.final {
+  font-size: 12px;
+  font-weight: 50px;
+  margin-top: 20px;
+}
